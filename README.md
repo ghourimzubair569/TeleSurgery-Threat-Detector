@@ -19,6 +19,6 @@ AI/ML Based Cybersecurity Threat Detection
 
 
 for run project 
-streamlit run app.py
+python -m streamlit run app.py
 
 in terminal
