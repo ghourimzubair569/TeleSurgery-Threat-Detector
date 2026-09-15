@@ -15,3 +15,10 @@ AI/ML Based Cybersecurity Threat Detection
 ▶️ How to Run
 📁 Project Structure
 🔮 Future Improvements
+
+
+
+for run project 
+streamlit run app.py
+
+in terminal
