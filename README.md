@@ -22,3 +22,29 @@ for run project
 python -m streamlit run app.py
 
 in terminal
+
+
+
+
+🖥️ Project Screenshots
+
+<img width="3812" height="1520" alt="Screenshot 2026-09-15 114621" src="https://github.com/user-attachments/assets/5780a8f8-67c6-45d0-9e4a-1adc7f809fd8" />
+
+
+Dashboard
+
+
+<img width="3837" height="1727" alt="Screenshot 2026-09-15 114708" src="https://github.com/user-attachments/assets/85292ecf-f600-40db-bc26-5d8073fc4c54" />
+
+
+
+
+Threat Detection
+
+<img width="2845" height="852" alt="Screenshot 2026-09-15 114830" src="https://github.com/user-attachments/assets/8b80fb8c-5b1f-4f50-9865-8430a097880e" />
+
+<img width="2815" height="1640" alt="Screenshot 2026-09-15 114844" src="https://github.com/user-attachments/assets/742f103b-d00a-4e95-a16b-61d4414a1d0d" />
+
+
+
+
