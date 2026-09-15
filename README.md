@@ -18,6 +18,44 @@ AI/ML Based Cybersecurity Threat Detection
 
 
 
+## 🎯 Objective
+
+The main objective of this project is to use Machine Learning
+to identify suspicious network activity and classify potential
+cybersecurity threats.
+
+## 🧠 Machine Learning
+
+The project uses a Random Forest classification model to analyze
+network-related features and predict whether activity represents
+a potential threat.
+
+## 🚀 Features
+
+- Real-time threat detection
+- Network security monitoring
+- AI-based threat analysis
+- Threat probability visualization
+- Authentication security
+- Cybersecurity monitoring dashboard
+
+## 🛠️ Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Random Forest
+- Streamlit
+- Matplotlib
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+
 for run project 
 python -m streamlit run app.py
 
